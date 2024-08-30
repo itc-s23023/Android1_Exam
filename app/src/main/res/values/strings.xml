@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather information</string>
+    <string name="tv_winfo_title">Details</string>
+</resources>
